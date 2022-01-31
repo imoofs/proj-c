@@ -41,7 +41,7 @@
 		7797ACA127A81B2D00B0A703 = {
 			isa = PBXGroup;
 			children = (
-				7797ACAC27A81B2E00B0A703 /* proj-c */,
+				7797ACAC27A81B2E00B0A703 /* source */,
 				7797ACAB27A81B2E00B0A703 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7797ACAC27A81B2E00B0A703 /* proj-c */ = {
+		7797ACAC27A81B2E00B0A703 /* source */ = {
 			isa = PBXGroup;
 			children = (
 				7797ACAD27A81B2E00B0A703 /* main.c */,
 			);
-			path = "proj-c";
+			path = source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
